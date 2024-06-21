@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "image": "./image/chilles_milrchi.jpg",
+        "name": "CHILLY POWDER REGULAR",
+        "size": "50g(Packet)"
+    },
+    {
+        "id":2,
+        "name": "TURMERIC POWDER",
+        "size": "50g(Packet)",
+        "image": "./image/Turmeric_haldi.jpg"
+    },
+    {
+        "id":3,
+        "name": "GARAM MASALA POWDER",
+        "size": "50g(Packet)",
+        "image": "./image/Garam-Masala.jpg"
+    },
+    {
+        "id":4,
+        "name": "GINGER POWDER",
+        "size": "50g(Packet)",
+        "image": "./image/ginger_adrak.jpeg"
+    },
+    {
+        "id":5,
+        "name": "CORIANDER POWDER ",
+        "size": "50g(Packet)",
+        "image": "./image/coriander_dhaniya.jpg"
+    },
+    {
+        "id":6,
+        "name": "NUTMEG POWDER",
+        "size": "50g(Packet)",
+        "image": "./image/nutmeg.jpg"
+    },
+    {
+        "id":7,
+        "name": "CARDAMOM POWDER",
+        "size": "50g(Packet)",
+        "image": "./image/cardamom-powder.jpg"
+    },
+    {
+        "id":8,
+        "name": "MACE POWDER",
+        "size": "50g(Packet)",
+        "image": "./image/Mace.jpg"
+    },
+    {
+        "id":9,
+        "name": "GARLIC POWDER",
+        "size": "50g(Packet)",
+        "image": "./image/garlic-powder.jpg"
+    },
+    {
+        "id":10,
+        "name": "CUMINA(Jeera)",
+        "size": "50g(Packet)",
+        "image": "./image/cumin_jeera.jpg"
+    },
+    {
+        "id":11,
+        "name": "GREEN MINT POWDER",
+        "size": "50g(Packet)",
+        "image": "./image/green-mint-powder.jpeg"
+    },
+    {
+        "id":12,
+        "name": "BLACK-PEPPER-POWDER",
+        "size": "50g(Packet)",
+        "image": "./image/black-pepper-powder.jpg"
+    }
+]
